@@ -352,16 +352,6 @@
                   </licenses>
       </dependency>
           <dependency>
-        <packageName>github.com/google/uuid</packageName>
-        <version>v1.1.1</version>
-        <licenses>
-                      <license>
-              <name>New BSD</name>
-              <url>http://opensource.org/licenses/BSD-3-Clause</url>
-            </license>
-                  </licenses>
-      </dependency>
-          <dependency>
         <packageName>github.com/googleapis/gnostic</packageName>
         <version>v0.2.0</version>
         <licenses>
@@ -528,16 +518,6 @@
                       <license>
               <name>Apache 2.0</name>
               <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-            </license>
-                  </licenses>
-      </dependency>
-          <dependency>
-        <packageName>github.com/pborman/uuid</packageName>
-        <version>v1.2.0</version>
-        <licenses>
-                      <license>
-              <name>New BSD</name>
-              <url>http://opensource.org/licenses/BSD-3-Clause</url>
             </license>
                   </licenses>
       </dependency>
